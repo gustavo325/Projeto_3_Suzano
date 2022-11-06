@@ -1,8 +1,8 @@
-
 import numpy as np
 import pandas as pd  
 import plotly.express as px 
-import streamlit as st  
+import streamlit as st
+  
 st.set_page_config(
     page_title="Ada project dashboard",
     page_icon="✅",
@@ -19,7 +19,7 @@ st.title("Ada project dashboard")
 # top-level filters
 
 # creating a single-element container
-placeholder = st.empty()
+placeholder = st.empty() 
 
 # near real-time / live feed simulation
 
@@ -70,5 +70,4 @@ with placeholder.container():
         st.write(fig2)
 
     st.markdown("### Detailed Data View")
-    st.dataframe(df_month_revenue)
-    
+    st.dataframe(df_month_revenue) 

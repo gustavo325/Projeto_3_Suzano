@@ -79,4 +79,4 @@ app.get('/api/ep1', (req, res) => {
 
 
     res.send(JSON.stringify(array_res));
-})
+}) 
