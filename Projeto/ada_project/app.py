@@ -9,9 +9,9 @@ st.set_page_config(
     layout="wide",
 )
 
-df_month_revenue = pd.read_csv('df_month_revenue.csv')
-df_all_sells = pd.read_csv('df_all_sells.csv')
-df_consolidate = pd.read_csv('df_consolidate.csv')
+df_month_revenue = pd.read_csv('month_revenue.csv')
+df_all_sells = pd.read_csv('all_sells.csv')
+df_consolidate = pd.read_csv('monthly_sales.csv')
 
 # dashboard title
 st.title("Ada project dashboard")
