@@ -14,3 +14,20 @@ Os dados deverão ser divididos em 4 arquivos:
 Após gerar todos os arquivos, utilizaremos um script que também já foi disponibilizado para gerar os gráficos referentes aos Data frames passados. 
 
 - **ada_project/README.md ** - contém explicações com mais detalhes sobre o projeto e referente ao funcionamento dos scripts que já foram disponibilizados. 
+
+____
+
+##### :busts_in_silhouette: Participantes
+
+- Gilselly Dantas;
+  - Linkedin: https://www.linkedin.com/in/giselly-landim
+- Joelson Silva;
+  - Linkedin: https://br.linkedin.com/in/joelsons
+
+_____
+
+##### :man: Autor
+
+- Gustavo Henrique Siqueira
+  - Linkedin: www.linkedin.com/in/gustavo-henriques
+
