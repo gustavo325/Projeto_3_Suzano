@@ -24,10 +24,6 @@ ____
 - Joelson Silva;
   - Linkedin: https://br.linkedin.com/in/joelsons
 
-_____
-
-##### :man: Autor
-
 - Gustavo Henrique Siqueira
   - Linkedin: www.linkedin.com/in/gustavo-henriques
 
